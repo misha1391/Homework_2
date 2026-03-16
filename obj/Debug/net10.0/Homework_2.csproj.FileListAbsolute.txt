@@ -12,3 +12,4 @@ C:\Users\misha\OneDrive\Рабочий стол\TOP\С#\Homework_2\obj\Debug\net
 C:\Users\misha\OneDrive\Рабочий стол\TOP\С#\Homework_2\obj\Debug\net10.0\Homework_2.pdb
 C:\Users\misha\OneDrive\Рабочий стол\TOP\С#\Homework_2\obj\Debug\net10.0\Homework_2.genruntimeconfig.cache
 C:\Users\misha\OneDrive\Рабочий стол\TOP\С#\Homework_2\obj\Debug\net10.0\ref\Homework_2.dll
+C:\Users\misha\OneDrive\Рабочий стол\TOP\С#\Homework_2\obj\Debug\net10.0\Homework_2.sourcelink.json
